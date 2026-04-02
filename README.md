@@ -58,7 +58,7 @@ Middle .NET Developer · FinTech & Enterprise · Remote
 
 <br/>
 
-**[Path Tracing Renderer](https://github.com/INnapets/PathTracing)** — HLSL ray tracing library + Unity integration *(Bachelor's thesis, 2024)*
+**[Path Tracing Renderer](https://github.com/INnapets/diplom)** — HLSL ray tracing library + Unity integration *(Bachelor's thesis, 2024)*
 
 > Custom path tracing renderer built in HLSL with Unity Engine integration. Implements Oren-Nayar diffuse BRDF for rough surfaces, Cook-Torrance specular model with GGX normal distribution, importance sampling for variance reduction, and HDRI environment lighting.
 
