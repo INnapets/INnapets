@@ -98,7 +98,7 @@
 <tr>
 <td width=100%>
 
-####[Path Tracing Renderer](https://github.com/INnapets/diplom)
+#### [Path Tracing Renderer](https://github.com/INnapets/diplom)
 **Bachelor's thesis (2024) — HLSL ray tracing library + Unity Engine integration**
 
 Custom path tracing renderer in HLSL, integrated with Unity. Implements Oren-Nayar diffuse BRDF for rough surfaces, Cook-Torrance specular with GGX normal distribution, importance sampling for variance reduction, and HDRI environment lighting. Result: physically-based rendering pipeline running in real-time in the Unity editor.
